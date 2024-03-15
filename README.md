@@ -2,7 +2,7 @@
 
 ## Quick Troubleshooting for Windows Printers
 
-This powershell script was created becaue my older family would always ask me to fix the printer and I got tired of doing this process over and over again. So, what does it do.
+This powershell script was created becaue my older family would always ask me to fix the printer and I got tired of doing this process over and over again; Try turning it off and back on too.... So, what does it do.
 
 1. Must be run with administrative privileges, checks to see if you are running as administrator.
 2. Stops Printer Spool service
